@@ -2,3 +2,4 @@ streamlit
 mistralai 
 requests 
 pandas
+apify-client

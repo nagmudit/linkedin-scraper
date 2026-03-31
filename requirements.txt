@@ -1,5 +1,5 @@
 streamlit 
-mistralai 
+mistralai<2.0.0 
 requests 
 pandas
 apify-client

@@ -1,0 +1,27 @@
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data/Output files (from app downloads/tests)
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit specific (if you add secrets later)
+.streamlit/secrets.toml
